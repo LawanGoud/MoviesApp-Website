@@ -1,0 +1,26 @@
+.hero-content {
+  text-align: center;
+}
+
+.hero-content h2 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.hero-content p {
+  margin: 0.5em 0;
+  font-size: 1.2em;
+}
+
+.hero-content button {
+  padding: 0.5em 1em;
+  background-color: rgba(0, 123, 255, 0.8);
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.hero-content button:hover {
+  background-color: rgba(0, 86, 179, 0.8);
+}
